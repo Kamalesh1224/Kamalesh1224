@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Kamalesh 👋
 
-<!--
-**Kamalesh1224/Kamalesh1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Student  
+💡 Interested in Machine Learning, AI Systems & Web Development  
+🚀 Building real-world projects  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python, Machine Learning
+- Pandas, NumPy, Scikit-learn
+- Flask, REST APIs
+- SQL, Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- AI Emergency Response System
+- AI Chatbot
+- Resume Analyzer
+- E-commerce Website
+
+## 🔗 Connect with me
+LinkedIn: https://www.linkedin.com/in/kamalesh-raja-13a7a327a  
+GitHub: https://github.com/Kamalesh1224
